@@ -1,6 +1,6 @@
 {
-  "name": "ethjs-signer",
-  "version": "0.1.1",
+  "name": "@photic/ethjs-signer",
+  "version": "1.0.0",
   "description": "A simple module for signing Ethereum transactions.",
   "main": "lib/index.js",
   "files": [
